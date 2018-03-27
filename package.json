@@ -1,0 +1,27 @@
+{
+  "name": "dir-html-url",
+  "version": "1.0.0",
+  "description": "Get file urls for html files in given directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Balou9/dir-html-url.git"
+  },
+  "keywords": [
+    "html-url",
+    "dir"
+  ],
+  "author": "Emmanuel Owosekun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Balou9/dir-html-url/issues"
+  },
+  "homepage": "https://github.com/Balou9/dir-html-url#readme",
+  "dependencies": {
+    "dir-html-list": "^1.0.0",
+    "get-abs-path": "^1.1.0"
+  }
+}
